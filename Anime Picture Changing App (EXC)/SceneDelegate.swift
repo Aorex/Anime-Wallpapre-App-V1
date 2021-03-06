@@ -4,7 +4,7 @@
 //
 //  Created by Adam (Atom Lab) on 7/11/20.
 //  Copyright © 2020 Adam. All rights reserved.
-//
+// NOTE: the comments are meant to give you an idea what's going on, and I have used them for the same reason back when I was practicing, it's a really good idea tto write comments, so when you're back to your code, you would know what is going on, by reading the explanations. 
 
 import UIKit
 
